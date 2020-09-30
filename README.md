@@ -1,2 +1,2 @@
-# Black_berry_game
+# Ping Pong Game
 Created with CodeSandbox
