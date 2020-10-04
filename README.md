@@ -5,6 +5,6 @@ Simple Ping Pong Game Made with JavaScript. Can You Beat The Computer?
 - Smart Opponent for Realistic Gameplay.
 
 ## ScreenShot
-
+<img src="ss/ping-pong.PNG"></img>
 ## Contribute
 - Feel free to Fork this repository.
