@@ -1,11 +1,10 @@
 # Ping Pong Game
-<<<<<<< patch-1
+
 
 This is a basic ping pong game made with javaScript ,html and CSS .
  Also sounds effects are added in the game for user convenience.
  
- ---
- 
+---- 
  # Play online 
  https://codesandbox.io/s/github/jagrit2019/Black_berry_game
  
